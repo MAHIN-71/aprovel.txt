@@ -7,6 +7,6 @@ TOU-FIQ-73499D6D40-M1472==
 TOU-FIQ-52713CFDCA-M1472==
 -------------------
 TOU-FIQ-8A4BB55DBF-M1472==
-
-1 din
+TOU-FIQ-6892A0C365-M1472==
+Namajer por key rimove
 -------------------
