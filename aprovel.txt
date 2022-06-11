@@ -14,4 +14,6 @@ TOU-FIQ-8A4BB55DBF-M1472==
 14 tsrik last dat
 TOU-FIQ-CC377ADA18-M1472==
 16 tarik last date
+TOU-FIQ-4A3AA89254-M1472==
+Bikale key rimove
 __________________________
